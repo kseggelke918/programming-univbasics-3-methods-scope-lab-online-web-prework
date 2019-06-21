@@ -14,3 +14,10 @@ def link
 end 
 
 def any_phrase(phrase)
+  puts #{phrase}
+end 
+
+mario
+toadstool
+link
+any_phrase("Do A Barrell Roll!")
